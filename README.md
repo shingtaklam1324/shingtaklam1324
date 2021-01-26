@@ -1,6 +1,10 @@
-### Hi there 👋
+# Maths + Formalisation
+
+I am an undergraduate studying Mathematics at the University of Cambridge, and I am interested in formalising Mathematics. In particular, I'm interested in the Lean Theorem Prover. 
 
 <!--
+### Hi there 👋
+
 **shingtaklam1324/shingtaklam1324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
