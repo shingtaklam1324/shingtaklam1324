@@ -1,6 +1,4 @@
-# Maths + Formalisation
-
-I am an undergraduate studying Mathematics at the University of Cambridge, and I am interested in formalising Mathematics. In particular, I'm interested in the Lean Theorem Prover. 
+I am an undergraduate studying Mathematics at the University of Cambridge, and my main interests are in Geometry and Topology.
 
 <!--
 ### Hi there 👋
