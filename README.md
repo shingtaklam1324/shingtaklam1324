@@ -1,3 +1,3 @@
-PhD student at Glasgow. Cambridge Part III graduate.
+PhD student at Warwick, formerly at Glasgow. Cambridge graduate.
 
-My interests lie within the intersection of differential and algebraic geometry, namely in symplectic and complex geometry.
+My interests lie in the interactions between algebraic and differential geometry.
